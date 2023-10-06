@@ -1,0 +1,7 @@
+Cloud_event_id:STRING,
+Cloud_event_type:STRING,
+Bucket_name:STRING,
+File_name:STRING,
+Created:TIMESTAMP,
+Updated:TIMESTAMP,
+Status_upload:STRING
